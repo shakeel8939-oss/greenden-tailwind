@@ -1,4 +1,3 @@
-# greenden-tailwind
 # 🌿 GreenDen Clone
 
 This is a fully responsive **GreenDen landing page clone** built using **Tailwind CSS**. The project replicates the original GreenDen website layout, design, and responsiveness using modern utility-first styling.
@@ -7,7 +6,7 @@ This is a fully responsive **GreenDen landing page clone** built using **Tailwin
 
 ## 🔗 Live Demo
 
-[👉 View Live](https://your-github-username.github.io/greenden/) 
+[👉 View Live](https://shakeel8939-oss.github.io/greenden-tailwind/) 
 
 ---
 
@@ -25,7 +24,7 @@ This is a fully responsive **GreenDen landing page clone** built using **Tailwin
 
 - **HTML5**
 - **Tailwind CSS**
-- **Visual Studio Code** (or any preferred code editor)
+- **Visual Studio Code**
 
 ---
 
